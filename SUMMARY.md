@@ -8,7 +8,7 @@
 * [任务](yong-hu-shou-ce/ren-wu.md)
 * [客户](yong-hu-shou-ce/ke-hu.md)
 * [收益](yong-hu-shou-ce/shou-yi.md)
-* 我的
+* [我的](yong-hu-shou-ce/wo-de.md)
 
 ## 常见问题
 
