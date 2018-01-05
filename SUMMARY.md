@@ -6,7 +6,7 @@
 
 * [注册](yong-hu-shou-ce/zhu-ce.md)
 * [任务](yong-hu-shou-ce/ren-wu.md)
-* 客户
+* [客户](yong-hu-shou-ce/ke-hu.md)
 * 收益
 * 我的
 
