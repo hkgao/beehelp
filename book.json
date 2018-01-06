@@ -1,6 +1,5 @@
 {
-  "title": "BeeHelp",
-  "description": "Bee Help Document",
+  "title": "Gitbook BeeHelp",
   "author": "GaoHongkai",
   "plugins": [
     "anchor-navigation-ex",
