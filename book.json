@@ -5,7 +5,7 @@
   "plugins": [
     "anchor-navigation-ex",
     "expandable-chapters-interactive",
-    "-lunr", "-search", "search-pro"
+    "-lunr", "-search", "search-plus"
   ],
   "pluginsConfig": {
     "anchor-navigation-ex": {
