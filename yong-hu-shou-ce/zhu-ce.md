@@ -2,9 +2,9 @@
 
 ---
 
-<span color="#F00">
+<font color="#F00">
 <extoc></extoc>
-</span>
+</font>
 
 [注册成为Bee](#注册成为Bee)
 
