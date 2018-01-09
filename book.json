@@ -23,9 +23,9 @@
         "level3Icon": "fa fa-angle-right"
       }
     },
-    "expandable-chapters":{}
-  },
-  "theme-default": {
+    "expandable-chapters":{},
+    "theme-default": {
       "showLevel": true
+    }
   }
 }
