@@ -2,7 +2,9 @@
 
 ---
 
+<span css="color:#4183c4">
 <extoc></extoc>
+</span>
 
 [注册成为Bee](#注册成为Bee)
 
