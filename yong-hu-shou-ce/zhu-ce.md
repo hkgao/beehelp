@@ -2,7 +2,7 @@
 
 ---
 
-<span style="color:#4183c4">
+<span style="color:#F00">
 <extoc></extoc>
 </span>
 
