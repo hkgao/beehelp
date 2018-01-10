@@ -1,6 +1,7 @@
 # Summary
 
 * [BMS](README.md)
+* [联系我们](lian-xi-wo-men.md)
 
 ## 用户手册
 
