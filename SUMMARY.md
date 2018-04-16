@@ -14,8 +14,6 @@
 ## 常见问题
 
 * [BMS使用](chang-jian-wen-ti/bmsshi-yong.md)
-* [平台运营](chang-jian-wen-ti/ping-tai-yun-ying.md)
-* [奖励计划](chang-jian-wen-ti/jiang-li-ji-hua.md)
 * [技巧分享](chang-jian-wen-ti/ji-qiao-fen-xiang.md)
   * [微信标签](chang-jian-wen-ti/ji-qiao-fen-xiang/wei-xin-biao-qian.md)
 
